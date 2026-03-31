@@ -453,10 +453,9 @@ const ProductsSection = () => {
               ))}
             </ul>
 
-            <a
-              href="#contact"
-              data-testid="product-cta"
-              className="btn-lift inline-flex items-center justify-center gap-2 bg-[#D4AF37] text-[#1A3626] px-8 py-4 rounded-full text-base font-semibold hover:bg-[#B3932F] w-fit"
+<a
+  href="https://wa.me/243896822071?text=Bonjour,%20je%20veux%20commander%20votre%20huile%20d'arachide."
+  className="btn-lift bg-[#D4AF37] text-[#1A3626] px-8 py-4 rounded-full text-base font-semibold hover:bg-[#B3932F] w-fit"
             >
               Commander maintenant
               <Send size={18} />
